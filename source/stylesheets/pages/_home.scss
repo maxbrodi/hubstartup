@@ -47,9 +47,10 @@
 
 #screen1{
   background-color: $brand-color;
-  min-height: 28em;
+  min-height: 1vh;
   h1{
     margin-bottom: 0px;
+    margin-top: 15%;
   }
 }
 
